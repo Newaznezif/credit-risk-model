@@ -4,7 +4,9 @@ venv/
 
 # Python cache
 __pycache__/
-*.py[cod]
+*.pyc
+
+
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
