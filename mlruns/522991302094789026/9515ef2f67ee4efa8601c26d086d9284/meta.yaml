@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/It%27s%20Blue/credit-risk-model/mlruns/522991302094789026/9515ef2f67ee4efa8601c26d086d9284/artifacts
+end_time: 1765881763253
+entry_point_name: ''
+experiment_id: '522991302094789026'
+lifecycle_stage: active
+run_id: 9515ef2f67ee4efa8601c26d086d9284
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765881761680
+status: 3
+tags: []
+user_id: It's Blue
