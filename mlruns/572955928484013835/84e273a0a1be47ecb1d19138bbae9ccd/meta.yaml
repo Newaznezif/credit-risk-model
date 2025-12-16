@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/It%27s%20Blue/credit-risk-model/mlruns/572955928484013835/84e273a0a1be47ecb1d19138bbae9ccd/artifacts
+end_time: 1765881246419
+entry_point_name: ''
+experiment_id: '572955928484013835'
+lifecycle_stage: active
+run_id: 84e273a0a1be47ecb1d19138bbae9ccd
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765881246019
+status: 4
+tags: []
+user_id: It's Blue
